@@ -1,0 +1,29 @@
+{
+  "repo": "mobikin-assistant-android-pro",
+  "product": "MobiKin Assistant Android Pro",
+  "kind": "mobile",
+  "install_type": "nexpath",
+  "install_url": "https://mobikin.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "mobile",
+  "topics": [
+    "mobikin",
+    "android-manager",
+    "phone-backup",
+    "sms-backup",
+    "contact-manager",
+    "android-sync",
+    "mobile-management",
+    "device-assistant",
+    "mobikin-setup-failed-fix",
+    "how-to-install-mobikin",
+    "mobikin-windows",
+    "mobile-tools",
+    "windows-tools",
+    "device-utility"
+  ],
+  "stars_cache": 15,
+  "nexpath_slug": "mobikin",
+  "nexpath_app_name": "MobiKin"
+}
